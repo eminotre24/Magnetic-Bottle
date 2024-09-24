@@ -1,4 +1,4 @@
-# Magnetic-Bottle
+# Magnetic Bottle
 This is a code which simulates a system of particles confined in a "magnetic bottle", which is a tool used to confine some types of materials, such as plasma, using magnetic fields.
 
 This repository contains a file named "magbottle.py", which is the library that contains all the functions used for the simulation. And the file "main.py" contains an example of a system of 3 particles.
